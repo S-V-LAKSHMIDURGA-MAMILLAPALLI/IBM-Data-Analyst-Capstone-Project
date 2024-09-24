@@ -18,10 +18,10 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 Task 6
 For the final task, we will use our storytelling skills to provide a narrative and present the findings of our analysis. 
 Table of Contents
-•	Data Description
-•	Tools
-•	Deliverables
-o	Task 1: Data Collection
+•Data Description
+•Tools
+•Deliverables
+oTask 1: Data Collection
 o	Task 2: Data Wrangling
 o	Task 3: Exploratory Data Analysis
 o	Task 4: Data Visualization
@@ -35,30 +35,31 @@ We will be given a subset of the original data set in this capstone project. We 
 Note: This randomised subset contains around 1/10th of the original data set. Any conclusions we draw after analyzing this subset may not reflect the real world scenario.
 	
 Tools
-•	python v3.12.2
-•	pandas for managing the data.
-•	numpy for mathematical operations.
-•	seaborn for visualizing the data.
-•	matplotlib for additional plotting tools.
-•	folium for geospatial data visualization such as choropleth maps.
-•	plotly for interactive plotting tools.
-•	Google Looker Studio for dashboards.
-•	IBM Cognos Analytics for dashboards.
+•python v3.12.2
+•pandas for managing the data.
+•numpy for mathematical operations.
+•seaborn for visualizing the data.
+•matplotlib for additional plotting tools.
+•folium for geospatial data visualization such as choropleth maps.
+•plotly for interactive plotting tools.
+•Google Looker Studio for dashboards.
+•IBM Cognos Analytics for dashboards.
+
 Deliverables
 Task 1: Data Collection
-•	 Collecting Data Using APIs
-•	 Collecting Data Using Web Scraping
-•	 Exploring Data
+	 Collecting Data Using APIs
+      •	 Collecting Data Using Web Scraping
+      •	 Exploring Data
 Task 2: Data Wrangling
-•	 Finding Missing Values
-•	 Determine Missing Values
-•	 Finding Duplicates
-•	 Removing Duplicates
-•	 Normalizing Data
+      •	 Finding Missing Values
+      •	 Determine Missing Values
+      •	 Finding Duplicates
+      •	 Removing Duplicates
+      •	 Normalizing Data
 Task 3: Exploratory Data Analysis
-•	 Distribution
-•	 Outliers
-•	 Correlation
+      •	 Distribution
+      •	 Outliers
+       •	 Correlation
 Task 4: Data Visualization
 •	 Visualizing Distribution of Data
 •	 Relationship
